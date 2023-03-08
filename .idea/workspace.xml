@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bf37504-cb0c-4a20-870d-7cc6ebe0e71d" name="Changes" comment="Day 1 - 06-03-23">
-      <change afterPath="$PROJECT_DIR$/src/Lec18/EvenOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lec18/EvenOdd_2pointer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lec18/SortArray01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lec18/SortArray01_2pointer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lec18/Square.java" afterDir="false" />
+    <list default="true" id="9bf37504-cb0c-4a20-870d-7cc6ebe0e71d" name="Changes" comment="Day 2 - 07-03-23">
+      <change afterPath="$PROJECT_DIR$/src/Lec19/PrefixSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,11 +74,19 @@
       <option name="project" value="LOCAL" />
       <updated>1678156499363</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Day 2 - 07-03-23">
+      <created>1678164528336</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678164528336</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Day 1 - 06-03-23" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 1 - 06-03-23" />
+    <MESSAGE value="Day 2 - 07-03-23" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 2 - 07-03-23" />
   </component>
 </project>
