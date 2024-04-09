@@ -1,0 +1,2 @@
+# Ignores all .out binaries!
+TUF/A2Z_DSA/recursion/*.out
